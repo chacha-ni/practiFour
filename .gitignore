@@ -1,0 +1,8 @@
+# react/.gitignore
+node_modules/
+build/
+
+# TodoApi/.gitignore
+bin/
+obj/
+.vs/
